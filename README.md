@@ -1,0 +1,1 @@
+# will_customer_accept_coupon
